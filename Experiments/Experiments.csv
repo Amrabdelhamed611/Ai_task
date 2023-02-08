@@ -1,0 +1,1 @@
+Experiment_id,Acc_t,Acc_v,Loss_t,Loss_v,epochs,Batch,time_ep(min),Model_name,Model_prams,pre_weights,opt_Name,opt_learning_rate,opt_betas,opt_decay,lossfn_name,lossfn_reduction,lossfn_class_weights,classes_num,classes_names,sampels/class,Augmentation_T,Augmentation_V,NoteBook_file_name,weights_file_name,fig_file_name,comment
